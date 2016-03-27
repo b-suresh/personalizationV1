@@ -11,5 +11,7 @@ public class CustomerIdentity {
 	
 	public String customerId;
 	public String rfid;
+	
+	public CustomerIdentity(){}
 
 }
