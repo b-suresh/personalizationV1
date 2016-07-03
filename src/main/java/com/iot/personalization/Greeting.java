@@ -15,6 +15,7 @@ public class Greeting {
     }
 
     public String getGreeting() {
+    	/* return the greeting string for now */
         return greeting;
     }
 }
