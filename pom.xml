@@ -9,8 +9,7 @@
         <maven>3.0.0</maven>
     </prerequisites>
 
-    <groupId>com.iot</groupId>
-    <artifactId>personalization</artifactId>
+    <groupId>com.iot.personalization</groupId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -140,4 +139,5 @@
             </plugin>
         </plugins>
     </reporting>
+    <artifactId>personalizationV1</artifactId>
 </project>

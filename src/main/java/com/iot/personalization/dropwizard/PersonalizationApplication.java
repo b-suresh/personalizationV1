@@ -1,4 +1,4 @@
-package com.iot.personalization;
+package com.iot.personalization.dropwizard;
 
 import com.iot.personalization.resources.PersonalizedGreetingResource;
 
