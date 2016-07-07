@@ -11,8 +11,8 @@ import javax.ws.rs.core.MediaType;
 
 import com.iot.personalization.CustomerIdentity;
 import com.iot.personalization.DummyCustomerService;
-import com.iot.personalization.Greeting;
-import com.iot.personalization.GreetingRequest;
+import com.iot.personalization.dropwizard.Greeting;
+import com.iot.personalization.dropwizard.GreetingRequest;
 
 @Path("/personalization")
 public class PersonalizedGreetingResource {

@@ -1,4 +1,4 @@
-package com.iot.personalization;
+package com.iot.personalization.dropwizard;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
